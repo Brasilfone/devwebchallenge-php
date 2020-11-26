@@ -19,6 +19,7 @@ O que nós esperamos que você aprenda de nós:
 ## Primeiros passos: 
 
 1 - Crie um repositório no github público que possamos olhar quando você finalizar.
+
 2 - Execute o projeto conforme solicitado pela nossa equipe, descrito no documento: [`description`](/description.md)
 
 ## Considerações
