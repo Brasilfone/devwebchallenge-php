@@ -1,6 +1,6 @@
 # Brasilfone dev-web challenge
 
-Esse é um desafio simples para o cargo de desenvolvedor mobile na Brasilfone.
+Esse é um desafio simples para o cargo de desenvolvedor web na Brasilfone.
 
 ## Sobre o desafio
 
