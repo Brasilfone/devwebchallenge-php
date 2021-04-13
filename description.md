@@ -17,7 +17,6 @@
 - Enviar-nos o SQL com a estrutura da tabela que você criou.
 - Enviar-nos os documentos para rodar no apache.
 - Enviar também para nós o link do github com o repositório que você criou o código.
-- Poderá utilizar node para realizar o teste, mas, lembre-se que em alguns momentos iremos trabalhar com o PHP. 
 
 ## O que nós vamos avaliar
 
