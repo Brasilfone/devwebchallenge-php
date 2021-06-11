@@ -1,6 +1,6 @@
 # Brasilfone dev-web challenge
 
-Esse é um desafio simples para o cargo de desenvolvedor web na Brasilfone.
+Esse é um desafio para o cargo de desenvolvedor web na Brasilfone.
 
 ## Sobre o desafio
 
@@ -22,4 +22,4 @@ O que nós esperamos que você aprenda de nós:
 
 ## Considerações
 
-- Tente escrever o melhor código que você conseguir. Isso tornará mais simples quando estivermos avaliando a solução. Lembre-se: será necessário explicar para nós como rodar e testar o código que você fez, seja em um app ou mesmo em um simulador online. 
+- Tente escrever o melhor código que você conseguir. Isso tornará mais simples quando estivermos avaliando a solução. Lembre-se: será necessário explicar para nós como rodar e testar o código que você fez.
