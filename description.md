@@ -18,7 +18,7 @@
   - OneToOne;
 
 - Criar um api em Node.js que:
-  - Liste os usuario cadastrados;
+  - Liste os usuários cadastrados;
   - CRUD de Setores;
   - CRUD de Empregados;
  
