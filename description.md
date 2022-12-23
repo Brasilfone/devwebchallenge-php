@@ -28,6 +28,6 @@ Não há necessidade do projeto estar igual as imagens, é apenas uma referênci
 - Nossa stack atual é: PHP 7.3, Zend Framework, Doctrine ORM, Javascript, Node.js, PostGreSQL, Linux. 
 - Não se esqueça de documentar o processo necessário para rodar a sua solução. Ou senão, como nós iremos iniciar o projeto em nossas máquinas?
 
-Todas as etapas acima devem ser enviadas em um único e-mail para: edian@brasilfone.com.br
+Todas as etapas acima devem ser enviadas em um único e-mail para: desenvolvimento@brasilfone.com.br
 
 Qualquer dúdiva que surgir com relação ao desafio, estaremos a disposição para sanar. 
