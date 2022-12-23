@@ -16,7 +16,7 @@
   - ManyToOne;
   - ManyToMany;
   - OneToOne;
-  - 
+
 - Criar um api em Node.js que:
   - Liste os usuario cadastrados;
   - CRUD de Setores;
