@@ -22,7 +22,7 @@
   - CRUD de Setores;
   - CRUD de Empregados;
  
-- Criar uma IA para reconhecimento de links que sejam fraudulentos ou analise de fraude por texto (simples)
+- Criar uma IA para reconhecimento de links que sejam fraudes ou analise de fraude por texto (simples)
 
 
 As referências para a tela de login podem ser visualizadas neste repositório na pasta: 
