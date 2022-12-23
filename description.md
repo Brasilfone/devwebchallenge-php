@@ -6,7 +6,7 @@
 - As páginas precisam estar funcionais, com verificação no banco de dados se o usuário existe, se a senha e acesso estão corretos.
 - Ao acessar o login deve direcionar para uma página inicial com uma mensagem de bem vindo {{ nome }}.
 - Crie uma pagina para cadastro de Setores, simulando uma empresa de telecomunicações (Financeiro, Comercial, Suporte, Atendimento, Desenvolvimento)
-- Crie uma pagina para cadastro de Empregados da empresa, nesse mesmo cadastro, deve listar os setores cadastrados e vincular o setor com o empregado (os campos do cadastro ficam ao seu critério)
+- Crie uma pagina para cadastro de Empregados da empresa, nesse mesmo cadastro, deve listar os setores cadastrados e vincular o setor com o empregado (os campos do cadastro do empregado ficam ao seu critério)
 - Utilize banco de dados PostgreSQL.
 
 # Diferencial:
