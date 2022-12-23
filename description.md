@@ -11,7 +11,7 @@
 
 # Diferencial:
 
-- Ampliar o projeto com sua criatividade e abordar o maximo desses relacionamentos que conseguir:
+- Ampliar o projeto com sua criatividade e abordar o máximo desses relacionamentos que conseguir:
   - OneToMany;
   - ManyToOne;
   - ManyToMany;
