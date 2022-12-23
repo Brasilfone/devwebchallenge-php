@@ -10,10 +10,20 @@
 - Utilize banco de dados PostgreSQL.
 
 # Diferencial:
+
+- Ampliar o projeto com sua criatividade e abordar o maximo desses relacionamentos que conseguir:
+  - OneToMany;
+  - ManyToOne;
+  - ManyToMany;
+  - OneToOne;
+  - 
 - Criar um api em Node.js que:
   - Liste os usuario cadastrados;
   - CRUD de Setores;
   - CRUD de Empregados;
+ 
+- Criar uma IA para reconhecimento de links que sejam fraudulentos ou analise de fraude por texto (simples)
+
 
 As referências para a tela de login podem ser visualizadas neste repositório na pasta: 
 devwebchallenge/project-images/
