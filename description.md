@@ -33,7 +33,7 @@ Não há necessidade do projeto estar igual as imagens, é apenas uma referênci
 
 ## O que nós vamos avaliar
 
-- O seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, entre outros fatores.
+- O seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, entre outros fatores, principalmente suas habilidades descritas em seu currículo.
 - O histórico do `git` será avaliado.
 - Nossa stack atual é: PHP 7.3, Zend Framework 2, Doctrine ORM, Javascript, Node.js, PostGreSQL, Linux. 
 - Não se esqueça de documentar o processo necessário para rodar a sua solução. Ou senão, como nós iremos iniciar o projeto em nossas máquinas?
