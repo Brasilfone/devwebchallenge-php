@@ -24,6 +24,9 @@
  
 - **Somente se tiver conhecimentos em IA**: Criar uma IA para reconhecimento de links que sejam fraudes ou analise de fraude por texto (simples)
 
+# Opcional:
+- Utilizar Zend Framework 3 no lugar do Zend Framework 2 - (pensando em migrar/criar sistemas com o ZF3);
+- Se estiver com muita dificuldade com o ZF, poderá utilizar outro framework, preferência por Laravel.
 
 As referências para a tela de login podem ser visualizadas neste repositório na pasta: 
 devwebchallenge/project-images/
@@ -33,7 +36,7 @@ Não há necessidade do projeto estar igual as imagens, é apenas uma referênci
 
 ## O que nós vamos avaliar
 
-- O seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, entre outros fatores, principalmente suas habilidades descritas em seu currículo.
+- O seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, ferramentas utilizadas, entre outros fatores, principalmente as habilidades descritas em seu currículo.
 - O histórico do `git` será avaliado.
 - Nossa stack atual é: PHP 7.3, Zend Framework 2, Doctrine ORM, Javascript, Node.js, PostGreSQL, Linux. 
 - Não se esqueça de documentar o processo necessário para rodar a sua solução. Ou senão, como nós iremos iniciar o projeto em nossas máquinas?
