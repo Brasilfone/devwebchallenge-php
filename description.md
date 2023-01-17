@@ -22,7 +22,7 @@
   - CRUD de Setores;
   - CRUD de Empregados;
  
-- **Somente se tiver conhecimentos em IA**: Mostrar alguma aplicação em IA;
+- **Somente se tiver conhecimentos em IA**: Mostrar algum case que você criou ou participou;
 
 # Opcional:
 - Utilizar Zend Framework 3 no lugar do Zend Framework 2 - (pensando em migrar/criar sistemas com o ZF3);
