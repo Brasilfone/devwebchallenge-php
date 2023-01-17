@@ -22,7 +22,7 @@
   - CRUD de Setores;
   - CRUD de Empregados;
  
-- **Somente se tiver conhecimentos em IA**: Criar uma IA para reconhecimento de links que sejam fraudes ou analise de fraude por texto (simples)
+- **Somente se tiver conhecimentos em IA**: Mostrar alguma aplicação em IA;
 
 # Opcional:
 - Utilizar Zend Framework 3 no lugar do Zend Framework 2 - (pensando em migrar/criar sistemas com o ZF3);
