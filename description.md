@@ -26,7 +26,7 @@
 
 # Opcional:
 - Utilizar Zend Framework 3 no lugar do Zend Framework 2 - (pensando em migrar/criar sistemas com o ZF3);
-- Se estiver com muita dificuldade com o ZF, poderá utilizar outro framework, preferência por Laravel.
+- Se estiver com muita dificuldade com o ZF, poderá utilizar outro framework, preferência por Laravel (lembrando que nossa stack é com ZF e Doctrine)
 
 As referências para a tela de login podem ser visualizadas neste repositório na pasta: 
 devwebchallenge/project-images/
