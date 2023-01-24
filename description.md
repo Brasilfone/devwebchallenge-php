@@ -1,13 +1,15 @@
 # Descrição do projeto:
-
-- Crie uma pagina de "login" com PHP e Zend Framework 2. 
-- Crie uma pagina de "cadastre-se", que valida apenas se o e-mail está no formato correto e cadastra usuários em banco de dados, com PHP, Doctrine e Zend Framework 2. 
+  Tecnologias: 
+      PHP com Zend Framework 2 ou Laravel
+      PostgreSQL com Doctrine ou outro ORM
+   
+- Crie uma pagina de "login". 
+- Crie uma pagina de "cadastre-se", que valida apenas se o e-mail está no formato correto e cadastra usuários em banco de dados. 
 - O usuário precisa conter nome, e-mail e senha.
 - As páginas precisam estar funcionais, com verificação no banco de dados se o usuário existe, se a senha e acesso estão corretos.
 - Ao acessar o login deve direcionar para uma página inicial com uma mensagem de bem vindo {{ nome }}.
 - Crie uma pagina para cadastro de Setores, simulando uma empresa de telecomunicações (Financeiro, Comercial, Suporte, Atendimento, Desenvolvimento)
 - Crie uma pagina para cadastro de Empregados da empresa, nesse mesmo cadastro, deve listar os setores cadastrados e vincular o setor ao empregado (os campos do cadastro do empregado ficam ao seu critério)
-- Utilize banco de dados PostgreSQL e Doctrine.
 
 # Diferencial:
 
@@ -26,7 +28,8 @@
 
 # Opcional:
 - Utilizar Zend Framework 3 no lugar do Zend Framework 2 - (pensando em migrar/criar sistemas com o ZF3);
-- Se estiver com muita dificuldade com o ZF, poderá utilizar outro framework, preferência por Laravel (lembrando que nossa stack é com ZF e Doctrine)
+- Criar todo o projeto com Nest.js, Next.js e PostgreSQL | MongoDB;
+
 
 As referências para a tela de login podem ser visualizadas neste repositório na pasta: 
 devwebchallenge/project-images/
