@@ -1,7 +1,7 @@
 # Descrição do projeto:
   Tecnologias: 
-      PHP com Zend Framework 2 ou Laravel
-      PostgreSQL com Doctrine ou outro ORM
+      - PHP com Zend Framework 2 ou Laravel
+      - PostgreSQL com Doctrine ou outro ORM
    
 - Crie uma pagina de "login". 
 - Crie uma pagina de "cadastre-se", que valida apenas se o e-mail está no formato correto e cadastra usuários em banco de dados. 
